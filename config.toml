@@ -8,7 +8,7 @@ theme = "ananke"
 
 [[params.ananke_socials]]
   name = "github"
-  url = "https://github.com/Diamond-Bluff"
+  url = "https://github.com/opiproject"
 
 [[params.ananke_socials]]
   name = "slack"
