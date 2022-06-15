@@ -1,7 +1,7 @@
 ---
 title: "Members"
-description: "Members of the OPI Project"
-featured_image: '/images/opi-banner.png'
+description: ""
+featured_image: '/images/opi_logos/backgrounds/OPI_logo_social_dark.png'
 menu:
   main:
     weight: 1
@@ -9,7 +9,7 @@ menu:
 
 Thank you to our member companies for sponsoring the OPI Project.
 
-Platinum members of the OPI Project are listed below.
+Premier members of the OPI Project are listed below.
 
 ![Dell Logo](/images/logos/dell-inc.svg)
 ![F5 Logo](/images/logos/f5-networks-inc.svg)

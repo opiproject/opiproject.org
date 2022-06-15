@@ -1,7 +1,7 @@
 ---
 title: "Join"
-description: "Join the OPI Project"
-featured_image: '/images/opi-banner.png'
+description: ""
+featured_image: '/images/opi_logos/backgrounds/OPI_logo_social_dark.png'
 menu:
   main:
     weight: 1

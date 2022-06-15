@@ -1,7 +1,7 @@
 ---
-title: "About OPI"
+title: "About"
 description: ""
-featured_image: '/images/opi-banner.png'
+featured_image: '/images/opi_logos/backgrounds/OPI_logo_social_dark.png'
 menu:
   main:
     weight: 1
