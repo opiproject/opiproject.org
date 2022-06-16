@@ -7,7 +7,8 @@ copyright = "Copyright the Open Programmable Infrastructure Fund"
 [params]
   post_content_classes = "sans-serif"
   cover_dimming_class =  "bg-transparent"
-  body_classes = "avenir bg-lightest-blue"
+  body_classes = "avenir bg-light-blue"
+  text_color = "navy"
 
 [[params.ananke_socials]]
   name = "github"
