@@ -2,9 +2,13 @@ baseURL = 'http://www.opiproject.org/'
 languageCode = 'en-us'
 title = 'Open Programmable Infrastructure Project'
 theme = "ananke"
+copyright = "Copyright the Open Programmable Infrastructure Fund"
 
 [params]
   post_content_classes = "sans-serif"
+  cover_dimming_class =  "bg-transparent"
+  body_classes = "avenir bg-light-blue"
+  text_color = "navy"
 
 [[params.ananke_socials]]
   name = "github"
