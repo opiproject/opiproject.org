@@ -13,9 +13,13 @@ Premier members of the OPI Project are listed below.
 
 ![Dell Logo](/images/logos/dell-inc.svg)   
 ![F5 Logo](/images/logos/f5-networks-inc.svg)   
+
 ![Intel Logo](/images/logos/intel-corporation.svg)   
-![Keysight Technologies Logo](/images/logos/keysight-technologies-inc.svg)   
+
+![Keysight Technologies Logo](/images/logos/keysight.png)   
+
 ![Marvell Logo](/images/logos/marvell-asia-pte-ltd.svg)   
+
 ![NVIDIA Logo](/images/logos/nvidia-inc.svg)   
 ![Red Hat Logo](/images/logos/red-hat-inc.svg)   
-![Tencent Cloud Logo](/images/logos/tencent-cloud-inc.svg)   
+![Tencent Cloud Logo](/images/logos/tencent-cloud-inc.png)   
