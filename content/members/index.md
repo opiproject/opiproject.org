@@ -18,3 +18,4 @@ Premier members of the OPI Project are listed below.
 ![Marvell Logo](/images/logos/marvell-asia-pte-ltd.svg)   
 ![NVIDIA Logo](/images/logos/nvidia-inc.svg)   
 ![Red Hat Logo](/images/logos/red-hat-inc.svg)   
+![Tencent Cloud Logo](/images/logos/tencent-cloud-inc.svg)   
