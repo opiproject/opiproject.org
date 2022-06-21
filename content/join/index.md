@@ -16,11 +16,6 @@ the contact sheet and have access to edit it. You can then join any desired
 subgroup by adding an `x` to the appropriate box. Also, it will help to email
 the group leader to make sure you are included in invites.
 
-## Request New Member Orientation
-
-To receive an orientation briefing for the project and more information on how
-to join or contribute, fill out [this form](https://forms.gle/25NbAw9UHtKnygQWA).
-
 # OPI Project Membership
 
 Open Programmable Infrastructure would not exist without the support of the
