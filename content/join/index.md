@@ -17,7 +17,7 @@ introduce yourself into the subgroups where you may want to contribute. Once
 you join a particular subgroup’s slack channel, you can ask the group lead to
 add you to the meeting invites for that particular sub group.
 
-# OPI Project Membership
+## OPI Project Membership
 
 Open Programmable Infrastructure would not exist without the support of the
 member organizations. If your organization or company is interested in joining,
