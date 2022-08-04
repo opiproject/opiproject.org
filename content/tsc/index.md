@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-The current OPI TSC Chart is [here](/docs/Open_Programmable_Infrastructure_Technical_Charter_Final-06-9-2022.pdf).
+The current OPI TSC Charter is [here](/docs/Open_Programmable_Infrastructure_Technical_Charter_Final-06-9-2022.pdf).
 
 The current TSC Membership is as follows (in last name alphabetical order):
 
