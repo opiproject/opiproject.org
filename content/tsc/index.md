@@ -9,6 +9,8 @@ menu:
 
 The current OPI TSC Charter is [here](/docs/Open_Programmable_Infrastructure_Technical_Charter_Final-06-9-2022.pdf).
 
+The current OPI TSC Chair is Joseph White from Dell.
+
 The current TSC Membership is as follows (in last name alphabetical order):
 
 | Name           | Company  |
