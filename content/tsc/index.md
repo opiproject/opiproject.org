@@ -23,3 +23,4 @@ The current TSC Membership is as follows (in last name alphabetical order):
 | Anh Thu Vo     | Marvell  |
 | Joseph White   | Dell     |
 | Richard Wu     | Tencent  |
+| Songming Yan   | ZTE      |
