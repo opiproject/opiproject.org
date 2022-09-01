@@ -12,6 +12,7 @@ alphabetical order):
 
 | Name               | Company  |
 | ------------------ | -------- |
+| Hao Chen           | ZTE      |
 | Dror Goldenberg    | NVIDIA   |
 | Michael Lynch      | Intel    |
 | Shekhar Mishra     | Dell     |
