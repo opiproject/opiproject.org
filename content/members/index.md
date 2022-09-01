@@ -25,4 +25,6 @@ Premier members of the OPI Project are listed below.
 
 ![Red Hat Logo](/images/logos/red-hat-inc.svg)
 
+![Tencent Logo](/images/logos/tencent-logo.svg)
+
 ![ZTE Logo](/images/logos/ZTE-logo.svg)
