@@ -23,7 +23,7 @@ menu:
 * Description & Responsibilities
   * [Discovery & Provisioning](https://github.com/opiproject/opi-prov-life/blob/main/PROVISIONING.md)
   * [Inventory](https://github.com/opiproject/opi-prov-life/blob/main/INVENTORY.md)
-  * Boot sequencing
+  * [Boot sequencing](https://github.com/opiproject/opi-prov-life/blob/main/BOOTSEQ.md)
   * Lifecycle & Updates
   * [Monitoring & Telemetry](https://github.com/opiproject/opi-prov-life/blob/main/MONITORING.md)
 * Leader: [Boris Glimcher](https://github.com/glimchb)
