@@ -7,58 +7,51 @@ menu:
     weight: 1
 ---
 
-## Developer Platform/PoC/Reference Architecture group
++-------------------------------------------------+---------------------------------------------------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| -                                               | Leaders                                           | Meeting Time & Date                                                                        | Slack Channels                                                        | Description & Responsibilities                                                                                      |
++================================================ +===================================================+============================================================================================+=======================================================================+=====================================================================================================================+
+| Developer Platform/PoC/Reference Architecture   | [Steven Royer](https://github.com/seroyer)        | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)  | [Slack Channel](https://opi-project.slack.com/archives/C033E418VCK)   | - Create a developer platform for producing applications that run on DPU/IPU devices                                |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - Customer-driven vendor-neutral approach to PoC development                                                        |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - Integration CI                                                                                                    |
++-------------------------------------------------+---------------------------------------------------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+ 
+| Provisioning and Platform Management            | [Boris Glimcher](https://github.com/glimchb)      | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)  | [Slack Channel](https://opi-project.slack.com/archives/C0342L6T7EC)   | - [Discovery & Provisioning](https://github.com/opiproject/opi-prov-life/blob/main/PROVISIONING.md)                 |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - Boot sequencing                                                                                                   |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - Lifecycle & Updates                                                                                               |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - [Inventory](https://github.com/opiproject/opi-prov-life/blob/main/INVENTORY.md)                                   |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - [Monitoring & Telemetry](https://github.com/opiproject/opi-prov-life/blob/main/MONITORING.md)                     |
++-------------------------------------------------+---------------------------------------------------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+ 
+| API and Behavioral Model                        | [Mark Sanders](https://github.com/sandersms)      | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)  | [Slack Channel](https://opi-project.slack.com/archives/C0344KMEAKB)   | - Define the object models for each of the components and services on the xPU                                       |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - Both host system facing and control/management facing                                                             |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - Taxonomy: network, security, storage, ai/ml, gateway, …                                                           |
++-------------------------------------------------+---------------------------------------------------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+ 
+| Use Case                                        | [Elad Blatt](https://github.com/EB2210NV)         | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)  | [Slack Channel](https://opi-project.slack.com/archives/C038BL2KFFU)   | - Create an open channel with the end users and potential deployment partners                                       |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - Share the work being done by the subgroups and get feedback from the end users and deployment partners.           |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | - Encourage more end users and deployment partners to contribute, take part, and join.                              |
++-------------------------------------------------+---------------------------------------------------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+ 
+| Outreach Committee                              | - [Paul Pindell](https://github.com/pdp2shirts)   | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)  | [Slack Channel](https://opi-project.slack.com/archives/C03U6QQ3PEX)   | The charter of the subgroup is where recruiting for additional project members, events coordination,                |
+| -                                               | - [Yan Fisher](https://github.com/yanfisher)      | -                                                                                          | -                                                                     | vision discussions, and marketing related activities will take place.                                               |
+| -                                               | -                                                 | -                                                                                          | -                                                                     | Sometimes this group is referred to as the project's non-technical, non-governing board activities committee.       |
++-------------------------------------------------+---------------------------------------------------+--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
 
-* Description & Responsibilities
-  * Create a developer platform for producing applications that run on
-    DPU/IPU devices
-  * Customer-driven vendor-neutral approach to PoC development
-  * Integration CI
-* Leader: [Steven Royer](https://github.com/seroyer)
-* [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
-* [Slack Channel](https://opi-project.slack.com/archives/C033E418VCK)
 
-## Provisioning and Platform Management Group
 
-* Description & Responsibilities
-  * [Discovery & Provisioning](https://github.com/opiproject/opi-prov-life/blob/main/PROVISIONING.md)
-  * [Inventory](https://github.com/opiproject/opi-prov-life/blob/main/INVENTORY.md)
-  * Boot sequencing
-  * Lifecycle & Updates
-  * [Monitoring & Telemetry](https://github.com/opiproject/opi-prov-life/blob/main/MONITORING.md)
-* Leader: [Boris Glimcher](https://github.com/glimchb)
-* [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
-* [Slack Channel](https://opi-project.slack.com/archives/C0342L6T7EC)
+| -                                             | Leaders                                          | Meeting Time & Date                                                                       | Slack Channels                                                      | Description & Responsibilities                                                                                    |
+|-----------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Developer Platform/PoC/Reference Architecture | [Steven Royer](https://github.com/seroyer)       | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics) | [Slack Channel](https://opi-project.slack.com/archives/C033E418VCK) | - Create a developer platform for producing applications that run on DPU/IPU devices                              |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - Customer-driven vendor-neutral approach to PoC development                                                      |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - Integration CI                                                                                                  |
+| Provisioning and Platform Management          | [Boris Glimcher](https://github.com/glimchb)     | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics) | [Slack Channel](https://opi-project.slack.com/archives/C0342L6T7EC) | - [Discovery & Provisioning](https://github.com/opiproject/opi-prov-life/blob/main/PROVISIONING.md)               |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - Boot sequencing                                                                                                 |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - Lifecycle & Updates                                                                                             |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - [Inventory](https://github.com/opiproject/opi-prov-life/blob/main/INVENTORY.md)                                 |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - [Monitoring & Telemetry](https://github.com/opiproject/opi-prov-life/blob/main/MONITORING.md)                   |
+| API and Behavioral Model                      | [Mark Sanders](https://github.com/sandersms)     | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics) | [Slack Channel](https://opi-project.slack.com/archives/C0344KMEAKB) | - Define the object models for each of the components and services on the xPU                                     |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - Both host system facing and control/management facing                                                           |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - Taxonomy: network, security, storage, ai/ml, gateway, …                                                         |
+| Use Case                                      | [Elad Blatt](https://github.com/EB2210NV)        | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics) | [Slack Channel](https://opi-project.slack.com/archives/C038BL2KFFU) | - Create an open channel with the end users and potential deployment partners                                     |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - Share the work being done by the subgroups and get feedback from the end users and deployment partners.         |
+| -                                             | -                                                | -                                                                                         | -                                                                   | - Encourage more end users and deployment partners to contribute, take part, and join.                            |
+| Outreach Committee                            | [Paul Pindell](https://github.com/pdp2shirts)    | [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics) | [Slack Channel](https://opi-project.slack.com/archives/C03U6QQ3PEX) | The charter of the subgroup is where recruiting for additional project members, events coordination,              |
+| -                                             | [Yan Fisher](https://github.com/yanfisher)       | -                                                                                         | -                                                                   | vision discussions, and marketing related activities will take place.                                             |
+| -                                             | -                                                | -                                                                                         | -                                                                   | Sometimes this group is referred to as the project's non-technical, non-governing board activities committee.     |
 
-## Open Programmable Infrastructure API and Behavioral Model
-
-* Description & Responsibilities
-  * Define the object models for each of the components and services on the
-    D/IPU
-  * Both host system facing and control/management facing
-  * Taxonomy: network, security, storage, ai/ml, gateway, …
-* Leader: [Mark Sanders](https://github.com/sandersms)
-* [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
-* [Slack Channel](https://opi-project.slack.com/archives/C0344KMEAKB)
-
-## Use Case
-
-* Description & Responsibilities
-  * Create an open channel with the end users and potential deployment partners.
-  * Share the work being done by the subgroups and get feedback from the end users
-      and deployment partners.
-  * Encourage more end users and deployment partners to contribute, take part, and join.
-* Leader: [Elad Blatt](https://github.com/EB2210NV)
-* [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
-* [Slack Channel](https://opi-project.slack.com/archives/C038BL2KFFU)
-
-## Outreach Committee
-
-* Description & Responsibilities
-  * The charter of the subgroup is where recruiting for additional project members,
-    events coordination, vision discussions, and marketing related activities will
-    take place. Sometimes this group is referred to as the project's non-technical,
-    non-governing board activities committee.
-* Leaders: [Paul Pindell](https://github.com/pdp2shirts) and [Yan Fisher](https://github.com/yanfisher)
-* [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
-* [Slack Channel](https://opi-project.slack.com/archives/C03U6QQ3PEX)
