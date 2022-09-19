@@ -8,6 +8,13 @@ Hugo code for OPI Project website.
 
 ## Development
 
+There are two ways to test this out:
+
+* Install hugo locally
+* Use a pre-built docker image with hugo
+
+### Install Hugo Locally
+
 To work on the website, make sure you have hugo installed. You can do that by
 following the instructions [here](https://gohugo.io/getting-started/installing/).
 
@@ -18,7 +25,20 @@ them locally, run the following in the root directory of the website:
 hugo server --disableFastRender
 ```
 
-This should give you something like this as output:
+### Docker Image With Hugo
+
+This method requires you to use a Docker image with hugo pre-built and installed
+inside. [This image](https://hub.docker.com/r/klakegg/hugo/) works well for this
+purpose.
+
+```code
+docker run --user=$(id -u):$(id -g) --rm -it   -v $(pwd):/src   -p 1313:1313   klakegg/hugo:0.101.0   server --disableFastRender
+```
+
+## Development Output
+
+Once you have hugo running by either installing it locally or using a Docker
+image, this should give you something like the following as output:
 
 ```code
 ➜  opiproject.org git:(dev) ✗ hugo server --disableFastRender
