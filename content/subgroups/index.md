@@ -15,7 +15,7 @@ menu:
   * Customer-driven vendor-neutral approach to PoC development
   * Integration CI
 * Leader: [Steven Royer](https://github.com/seroyer)
-* [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
+* Meeting Time & Date: No meetings
 * [Slack Channel](https://opi-project.slack.com/archives/C033E418VCK)
 
 ## Provisioning and Platform Management Group
