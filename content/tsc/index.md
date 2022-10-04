@@ -15,12 +15,12 @@ The current TSC Membership is as follows (in last name alphabetical order):
 
 | Name           | Company  |
 | -------------- | -------- |
+| Prasun Kapoor  | Marvell  |
 | Kyle Mestery   | Intel    |
 | Tim Michels    | F5       |
 | Tzahi Oved     | NVIDIA   |
 | Venkat Pullela | Keysight |
 | Steve Royer    | Red Hat  |
-| Prasun Kapoor  | Marvell  |
 | Joseph White   | Dell     |
 | Richard Wu     | Tencent  |
 | Songming Yan   | ZTE      |
