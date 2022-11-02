@@ -1,7 +1,7 @@
 baseURL = 'http://www.opiproject.org/'
 languageCode = 'en-us'
 title = 'Open Programmable Infrastructure Project'
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 copyright = "Copyright the Open Programmable Infrastructure Fund"
 
 [params]
@@ -17,3 +17,7 @@ copyright = "Copyright the Open Programmable Infrastructure Fund"
 [[params.ananke_socials]]
   name = "slack"
   url = "https://join.slack.com/t/opi-project/shared_invite/zt-1ctqtrgkz-WJZrcVPp3P1ACZWjpZP2KQ"
+
+[module]
+[[module.imports]]
+  path = 'github.com/theNewDynamic/gohugo-theme-ananke'
