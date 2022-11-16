@@ -29,3 +29,22 @@ menu:
   * macro-aggregator across DPUs and IPUs
 * Next steps
   * Standardize the common metrics across DPU and IPU vendors
+
+## OPI adopted [SMBIOS](https://www.dmtf.org/standards/smbios) for DPUs and IPUs
+
+* SMBIOS is used for local access inside the DPUs and IPUs to get BIOS and System information about DPUs and IPUs
+* SMBIOS is a standard way to get similar information from servers, so DPUs and IPUs adoption make sense
+* On Linux one can access SMBIOS info locally via `dmidecode` or `/sys/class/dmi/id/`, as an example
+* SMBIOS provides those types of information:
+  * bios
+  * system
+  * baseboard
+  * chassis
+  * processor
+  * memory
+  * cache
+  * connector
+  * slot
+* OPI will define mandatory tables and fields for OPI compliance.
+* OPI will produce smbios-validation-tool like [google](https://github.com/google/smbios-validation-tool)
+* Check more info in Provisioning TWG <https://github.com/opiproject/opi-prov-life>
