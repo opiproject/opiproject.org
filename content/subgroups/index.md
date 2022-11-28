@@ -24,7 +24,7 @@ menu:
   * [Discovery & Provisioning](https://github.com/opiproject/opi-prov-life/blob/main/PROVISIONING.md)
   * [Inventory](https://github.com/opiproject/opi-prov-life/blob/main/INVENTORY.md)
   * [Boot sequencing](https://github.com/opiproject/opi-prov-life/blob/main/BOOTSEQ.md)
-  * Lifecycle & Updates
+  * [Lifecycle & Updates](https://github.com/opiproject/opi-prov-life/blob/main/LIFECYCLE.md)
   * [Monitoring & Telemetry](https://github.com/opiproject/opi-prov-life/blob/main/MONITORING.md)
 * Leader: [Boris Glimcher](https://github.com/glimchb)
 * [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
