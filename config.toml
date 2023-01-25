@@ -18,6 +18,14 @@ copyright = "Copyright the Open Programmable Infrastructure Fund"
   name = "slack"
   url = "https://join.slack.com/t/opi-project/shared_invite/zt-1ctqtrgkz-WJZrcVPp3P1ACZWjpZP2KQ"
 
+[[params.ananke_socials]]
+  name = "youtube"
+  url = "https://www.youtube.com/@OPI_project"
+
+[[params.ananke_socials]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/company/opiproject/"
+
 [module]
 [[module.imports]]
   path = 'github.com/theNewDynamic/gohugo-theme-ananke'
