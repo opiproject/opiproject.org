@@ -32,7 +32,7 @@ inside. [This image](https://hub.docker.com/r/klakegg/hugo/) works well for this
 purpose.
 
 ```code
-docker run --user=$(id -u):$(id -g) --rm -it   -v $(pwd):/src   -p 1313:1313   klakegg/hugo:0.101.0   server --disableFastRender
+docker run --user=$(id -u):$(id -g) --rm -it   -v $(pwd):/src   -p 1313:1313   klakegg/hugo:0.107.0-ext-ubuntu   server --disableFastRender
 ```
 
 ## Development Output
