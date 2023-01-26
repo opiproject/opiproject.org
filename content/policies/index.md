@@ -18,3 +18,4 @@ Infrastructure Project.
 * [OPI Release Approach](https://github.com/opiproject/opi/blob/main/Policies/OPI_RELEASE_APPROACH.md)
 * [OPI GitHub Process](https://github.com/opiproject/opi/blob/main/Policies/doc-github-rules.md)
 * [OPI Video and Presentation Policy](https://github.com/opiproject/opi/blob/main/Policies/publishing_policy.md)
+* [OPI Lab Budget Guidelines](https://github.com/opiproject/opi/blob/main/Policies/spending_guidelines.md)
