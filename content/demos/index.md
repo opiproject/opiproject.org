@@ -16,7 +16,7 @@ menu:
 
 ## IPSec Demo
 
-* [Video recording](https://youtu.be/UWIGLShe8d0)
+* [Video recording](https://youtu.be/uf6xXRXKlQo)
 * [API protocol buffers](https://github.com/opiproject/opi-api/tree/main/security)
 * clients <https://github.com/opiproject/pydpu> and <https://github.com/opiproject/godpu>
 * check more info with detailed diagrams <https://github.com/opiproject/opi-poc/tree/main/demos/security>
