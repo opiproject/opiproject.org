@@ -21,6 +21,7 @@ The current TSC Membership is as follows (in last name alphabetical order):
 | Tzahi Oved     | NVIDIA   |
 | Venkat Pullela | Keysight |
 | Steve Royer    | Red Hat  |
+| Dong Wei       | ARM      |
 | Joseph White   | Dell     |
 | Richard Wu     | Tencent  |
 | Songming Yan   | ZTE      |
