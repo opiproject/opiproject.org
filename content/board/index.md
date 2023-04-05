@@ -15,6 +15,7 @@ alphabetical order):
 | Hao Chen           | ZTE      |
 | Dror Goldenberg    | NVIDIA   |
 | Michael Lynch      | Intel    |
+| Marc Meunier       | ARM      |
 | Shekhar Mishra     | Dell     |
 | Joel Moses         | F5       |
 | Kris Murphy        | Red Hat  |

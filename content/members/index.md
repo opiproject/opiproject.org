@@ -11,6 +11,8 @@ Thank you to our member companies for sponsoring the OPI Project.
 
 Premier members of the OPI Project are listed below.
 
+![ARM Logo](/images/logos/arm-logo.svg)
+
 ![Dell Logo](/images/logos/dell-inc.svg)
 
 ![F5 Logo](/images/logos/f5-networks-inc.svg)
