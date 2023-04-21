@@ -11,8 +11,8 @@ menu:
 
 To participate in the Open Programmable Infrastructure Project, check out the
 [OPI Mailing Lists](https://lists.opiproject.org/g/opi) and the [OPI Slack Channels](https://join.slack.com/t/opi-project/shared_invite/zt-1ctqtrgkz-WJZrcVPp3P1ACZWjpZP2KQ).
-Join the subgroup lists and channels in which you would like to participate,
-and join the subgroup meetings via the meeting links found [here](https://lists.opiproject.org/g/opi/calendar).
+Join the Working Group lists and channels in which you would like to participate,
+and join the Working Group meetings via the meeting links found [here](https://lists.opiproject.org/g/opi/calendar).
 
 # Contributing to the OPI Project
 
