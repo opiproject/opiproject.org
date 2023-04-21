@@ -1,5 +1,5 @@
 ---
-title: "Subgroups"
+title: "Working Groups"
 description: ""
 featured_image: '/images/opi_logos/backgrounds/OPI_logo_social_dark.png'
 menu:
@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-## Developer Platform/PoC/Reference Architecture group
+## Developer Platform/PoC/Reference Architecture
 
 * Description & Responsibilities
   * Create a developer platform for producing applications that run on
@@ -18,7 +18,7 @@ menu:
 * Meeting Time & Date: No meetings
 * [Slack Channel](https://opi-project.slack.com/archives/C033E418VCK)
 
-## Provisioning and Platform Management Group
+## Provisioning and Platform Management
 
 * Description & Responsibilities
   * [Discovery & Provisioning](https://github.com/opiproject/opi-prov-life/blob/main/PROVISIONING.md)
