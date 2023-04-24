@@ -30,7 +30,7 @@ menu:
 * [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
 * [Slack Channel](https://opi-project.slack.com/archives/C0342L6T7EC)
 
-## Open Programmable Infrastructure API and Behavioral Model
+## API and Behavioral Model
 
 * Description & Responsibilities
   * Define the object models for each of the components and services on the
@@ -45,20 +45,20 @@ menu:
 
 * Description & Responsibilities
   * Create an open channel with the end users and potential deployment partners.
-  * Share the work being done by the subgroups and get feedback from the end users
+  * Share the work being done by the working groups and get feedback from the end users
       and deployment partners.
   * Encourage more end users and deployment partners to contribute, take part, and join.
 * Leader: [Elad Blatt](https://github.com/EB2210NV)
 * [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
 * [Slack Channel](https://opi-project.slack.com/archives/C038BL2KFFU)
 
-## Outreach Committee
+## Outreach
 
 * Description & Responsibilities
-  * The charter of the subgroup is where recruiting for additional project members,
+  * The charter of the working group is where recruiting for additional project members,
     events coordination, vision discussions, and marketing related activities will
     take place. Sometimes this group is referred to as the project's non-technical,
-    non-governing board activities committee.
+    non-governing board activities working group.
 * Leaders: [Paul Pindell](https://github.com/pdp2shirts) and [Yan Fisher](https://github.com/yanfisher)
 * [Meeting Time & Date](https://lists.opiproject.org/g/opi/ics/11517600/341223815/feed.ics)
 * [Slack Channel](https://opi-project.slack.com/archives/C03U6QQ3PEX)
